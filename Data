@@ -1,5 +1,5 @@
 #Data in 2D List
-#Move Name, Genre (Action, Comedy, Drama, Mystery/Thriller, Horror), Opening Date, Movie Rating, Tomatometer Number, Where to Watch
+#Movie Name, Genre (Action, Comedy, Drama, Mystery/Thriller, Horror), Opening Date, Movie Rating, Tomatometer Number, Where to Watch
 
 movies_data = [
     ["Movie Name", "Action", "2023-10-01", "PG-13", 85, "Streaming"],
