@@ -2,6 +2,6 @@
 #Movie Name, Genre (Action, Comedy, Drama, Mystery/Thriller, Horror), Opening Date, Movie Rating, Tomatometer Number, Where to Watch
 
 movies_data = [
-    ["Movie Name", "Action", "2023-10-01", "PG-13", 85, "Streaming"],
-    ["Movie Name", "Comedy", "2023-09-15", "R", 90, "In theaters"],
+    ["Juror #2", "Mystery/Thriller", "2024-11-01", "PG-13", 93, "Streaming"],
+    ["The Substance", "Horror", "2024-09-20", "R", 90, "In theaters"],
 ]
