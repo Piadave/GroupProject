@@ -1,7 +1,7 @@
 #This is the file for main code
 
 #Import the file with the functions
-import Utility.py
+import Utility
 
 print("Let's find a movie to watch!")
 
@@ -21,8 +21,8 @@ print("2. Top Rated Movies")
 choice = int(input("\nEnter 1 or 2: "))
 
 if choice == 1:
-   func1()
+   Utility.func1()
 elif choice == 2:
-   func2()
+   Utility.func2()
 else:
    print("Invalid choice, please restart the program.")
