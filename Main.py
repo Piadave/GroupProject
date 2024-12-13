@@ -1,7 +1,7 @@
 #This is the file for main code
 
 #Import the file with the functions
-import Utility
+import Utility.ipynb
 
 print("Let's find a movie to watch!")
 
@@ -21,8 +21,8 @@ print("2. Top Rated Movies")
 choice = int(input("\nEnter 1 or 2: "))
 
 if choice == 1:
-   Utility.func1()
+   Utility.ipynb.func1()
 elif choice == 2:
-   Utility.func2()
+   Utility.ipynb.func2()
 else:
    print("Invalid choice, please restart the program.")
